@@ -9,7 +9,7 @@ li {list-style: none;}
 
 img {border: none; vertical-align:top;} 
 
-body{font-size:14px; color: 1a1a1a; font-family:"Microsoft YaHei" "sans-serif";}
+body{font-size:14px; color: 1a1a1a; font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;}
 
 a {text-decoration: none;}
 
